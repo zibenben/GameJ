@@ -787,3 +787,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.30-10.04.40:863][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2021.10.30-10.04.40:960][  4]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2021.10.30-10.04.41:846][ 57]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.30-12.05.13:892][747]LogAssetRegistry: Error: Package D:/GameJam2021/GameJ/Demo/Content/FantasyFX\Materials\Explosion\M_Basic.uasset has newer custom version of Dev-Rendering
+[2021.10.30-12.05.14:230][748]LogAssetRegistry: Error: Package D:/GameJam2021/GameJ/Demo/Content/FantasyFX\Materials\Explosion\M_Basic.uasset has newer custom version of Dev-Rendering
