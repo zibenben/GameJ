@@ -73,3 +73,5 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 *.log
+Demo/Intermediate/CachedAssetRegistry.bin
+Demo/Saved/Logs/Demo.log
